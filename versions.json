@@ -1,6 +1,7 @@
 {
-  "users.json.enc": 1,
-  "admins.json.enc": 1,
-  "exam_questions.json.enc": 1,
+  "users.json.enc": 2,
+  "admins.json.enc": 2,
+  "exam_questions.json.enc": 2,
   "questions.json.enc": 1
 }
+
