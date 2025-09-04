@@ -1,9 +1,10 @@
 {
   "users.json.enc": 1,
   "admins.json.enc": 1,
-  "exam_questions.json.enc": 1,
+  "exam_questions.json.enc": 0,
   "questions.json.enc": 1
 }
+
 
 
 
